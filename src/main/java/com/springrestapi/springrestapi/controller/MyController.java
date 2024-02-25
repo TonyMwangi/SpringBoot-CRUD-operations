@@ -18,7 +18,7 @@ public class MyController {
 
     @GetMapping("/home")
     public String home(){
-        return "Hi Vishal, welcome to Springboot";
+        return "Hi Tony, welcome to Springboot";
     }
 
     //get the courses
